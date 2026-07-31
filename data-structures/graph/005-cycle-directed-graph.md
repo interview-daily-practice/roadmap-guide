@@ -1,5 +1,16 @@
 # Cycle Detection In Directed Graph
 
+Approach: State and Recursion
+
+visiting->visited
+
+- if we found state is visiting then cycle exist so return true
+- if we found state is visited then cycle does not exists so return false
+- mark as visiting
+- explore neighbors and recurse. if cycle found return true
+- mark as visited
+- return false
+
 ```java
 import java.util.*;
 class Solution {
