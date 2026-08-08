@@ -1,1 +1,12 @@
 
+- 78 Generate All Subsets
+- 90 Subsets 2
+- 377 Combination Sum 4
+- 216 Combination Sum 3
+- 40 Combination Sum 2
+- 39 Combination Sum
+- 46 Permuation Array Of nums
+- 79 Word Search In a Grid
+- 17 Letter Combination of a phone number
+- 51 N queens (all solution and is possible)
+- 131 Pallindromic Partioning
